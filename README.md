@@ -20,7 +20,7 @@ A passionate developer from India, exploring and learning latest tech fields.
 </p>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,git,html,css,figma,javascript,react,mysql,linux,github,bootstrap,nodejs,expressjs,mysql,postgresql,jquery)](https://github.com/k7aditya)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,git,html,css,figma,javascript,react,mysql,linux,github,bootstrap,nodejs,expressjs,postgresql,jquery)](https://github.com/k7aditya)
 
 # 📊 GitHub Stats:
 <span><img style="width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k7aditya&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
