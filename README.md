@@ -21,6 +21,7 @@ A passionate developer from India, exploring and learning latest tech fields.
 <a href="https://codeforces.com/profile/aditya_k_iiita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_k_iiita" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/k7aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k7aditya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/k7adiez3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="k7adiez3d" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/k7aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="k7adiez3d" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
