@@ -16,7 +16,7 @@ A passionate developer from India, exploring and learning latest tech fields.
 <a href="https://instagram.com/the_aditya_k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_aditya_k_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Coding Profiles</h3>
+<h3 align="left">Coding Profiles:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/aditya_k_iiita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_k_iiita" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/k7aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k7aditya" height="30" width="40" /></a>
