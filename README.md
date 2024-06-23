@@ -14,6 +14,10 @@ A passionate developer from India, exploring and learning latest tech fields.
 <a href="https://twitter.com/aditya_k1955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_k1955" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/k7aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k7aditya" height="30" width="40" /></a>
 <a href="https://instagram.com/the_aditya_k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_aditya_k_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Coding Profiles</h3>
+<p align="left">
 <a href="https://codeforces.com/profile/aditya_k_iiita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditya_k_iiita" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/k7aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k7aditya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/k7adiez3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="k7adiez3d" height="30" width="40" /></a>
