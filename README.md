@@ -35,5 +35,5 @@ A passionate developer from India, exploring and learning latest tech fields.
 ![](https://github-contributor-stats.vercel.app/api?username=k7aditya&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 📊 Recent Activity Graph
-[![Kushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=k7aditya&bg_color=000000&color=ababab&line=7e00e6&point=d1d1d1&area=true&hide_border=true)](https://github.com/k7aditya)
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=k7aditya&bg_color=000000&color=ababab&line=7e00e6&point=d1d1d1&area=true&hide_border=true)](https://github.com/k7aditya)
 
